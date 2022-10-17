@@ -1,0 +1,19 @@
+127.0.0.1   v3.mercusuar.uzone.id # block telkom redirect
+127.0.0.1   118.97.116.10
+127.0.0.1   mercusuar.uzone.id
+127.0.0.1   36.86.63.180
+127.0.0.1   internetpositif.uzone.id
+127.0.0.1   cfs.uzone.id
+127.0.0.1   118.97.116.2 # alias cfs.uzone.id
+127.0.0.1   118.97.116.10 #alias uzone.id
+127.0.0.1   118.97.116.*
+127.0.0.1   www.uzone.id
+127.0.0.1   www.uadexchange.com
+127.0.0.1   uadexchange.com
+127.0.0.1   a01.uadexchange.com
+127.0.0.1   a02.uadexchange.com
+127.0.0.1   a03.uadexchange.com
+127.0.0.1   a04.uadexchange.com
+127.0.0.1   a05.uadexchange.com
+127.0.0.1   36.86.63.180
+127.0.0.1   118.98.96.15
